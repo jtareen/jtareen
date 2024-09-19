@@ -13,21 +13,6 @@
 
 - 📫 How to reach me **jtareen440@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jawad-tareen-22349a145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jawad-tareen-22349a145" height="30" width="40" /></a>
-<a href="https://kaggle.com/jawadtareen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jawadtareen" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jtareen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jtareen" height="30" width="40" /></a>
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtareen&show_icons=true&locale=en&layout=compact" alt="jtareen" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jtareen&show_icons=true&locale=en" alt="jtareen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jtareen&" alt="jtareen" /></p>
-
-----
 
 
 ## 🌐 Socials:
