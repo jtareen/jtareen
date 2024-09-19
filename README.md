@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jawad Ahmed Tareen</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate developer from Pakistan</h3>
 
 [![](https://visitcount.itsvg.in/api?id=jtareen&icon=0&color=0)](https://visitcount.itsvg.in)
 
